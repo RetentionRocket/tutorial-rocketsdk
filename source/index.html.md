@@ -1,5 +1,5 @@
 ---
-title: Retention Marketing for Ecommerce
+title: Tutorial - RocketSDK for Retention Marketing
 
 language_tabs: # must be one of https://git.io/vQNgJ
 
@@ -14,7 +14,7 @@ includes:
 search: true
 ---
 
-# Retention Marketing for Ecommerce
+# Using RocketSDK for Retention Marketing
 
 **by Daniel Kehoe**
 
