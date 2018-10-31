@@ -14,7 +14,7 @@ includes:
 search: true
 ---
 
-# Using RocketSDK for Retention Marketing
+# RocketSDK for Retention Marketing
 
 **by Daniel Kehoe**
 
