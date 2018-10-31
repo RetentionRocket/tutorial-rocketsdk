@@ -1,5 +1,5 @@
 
-# Integrating Retention Rocket With a Website Using RocketSDK
+# Tutorial: Using RocketSDK for Retention Marketing
 
 The tutorial [Retention Marketing for Ecommerce](https://retentionrocket.github.io/tutorial-rocketsdk/) shows how to increase sales for an ecommerce site by adding the [Retention Rocket](https://www.retentionrocket.com/) RocketSDK JavaScript library. Merchants use the Retention Rocket service to reduce cart abandonment. The JavaScript library sends ecommerce event data to the Retention Rocket servers. Retention Rocket responds to events such as cart abandonment by sending SMS or Facebook messages to shoppers.
 
@@ -47,8 +47,8 @@ Save your file, commit with git and push the changes to Github, and deploy it as
 $ ./deploy.sh
 ```
 
-Deploying the tutorial makes it available publicly at [https://retentionrocket.github.io/tutorial-rocketsdk/])(https://retentionrocket.github.io/tutorial-rocketsdk/).
+Deploying the tutorial makes it available publicly at [https://retentionrocket.github.io/tutorial-rocketsdk/](https://retentionrocket.github.io/tutorial-rocketsdk/).
 
 ## Questions? Need Help? Found a bug?
 
-Suggestions for the tutorial? Found an error? [submit an issue](https://github.com/RetentionRocket/tutorial-rocketsdk/issues).
+Suggestions for the tutorial? Found an error? [Submit an issue](https://github.com/RetentionRocket/tutorial-rocketsdk/issues).
