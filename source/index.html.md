@@ -5,8 +5,8 @@ language_tabs: # must be one of https://git.io/vQNgJ
 
 toc_footers:
   - This document is open source
-  - Questions? <a href='https://stackoverflow.com/questions/tagged/ruby-on-rails'>Ask on Stack Overflow</a>
-  - Have fixes? <a href='https://github.com/RailsApps/tutorial-retention-marketing'>Edit the GitHub repo</a>
+  - Questions? <a href='https://stackoverflow.com/'>Ask on Stack Overflow</a>
+  - Have fixes? <a href='https://github.com/RetentionRocket/tutorial-rocketsdk'>Edit the GitHub repo</a>
 
 
 includes:
@@ -18,7 +18,7 @@ search: true
 
 **by Daniel Kehoe**
 
-_Last updated 30 October 2018_
+_Last updated 31 October 2018_
 
 ## Introduction
 
